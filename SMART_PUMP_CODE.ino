@@ -1,5 +1,5 @@
 /*
- *This project was created by Michael adawaren and will be updated by me copyright will include using the code for personal 
+ *This project was created by Michael adawaren and will be updated by Michael Adawaren copyright will include using the code for personal 
    purpose only and not publishing it for more inquires contact me at gadocer54@gmail.com
  */
 #include <stdlib.h>
